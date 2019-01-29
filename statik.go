@@ -200,7 +200,7 @@ import (
 	"github.com/rakyll/statik/fs"
 )
 
-func init() {
+func Init() {
 	data := "`, tags, comment, namePackage)
 	FprintZipData(&qb, buffer.Bytes())
 	fmt.Fprint(&qb, `"

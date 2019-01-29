@@ -1,1 +1,1 @@
-module github.com/rakyll/statik
+module github.com/ddosakura/statik-ds-forker
